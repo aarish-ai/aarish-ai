@@ -7,7 +7,7 @@ Currently on **Summer Break** ☀️ — making the most of it by learning, buil
 - 🔭 Looking for **AI/ML internships**
 - 💻 Building my own projects alongside continuous learning
 - 📚 Passionate about Artificial Intelligence, Machine Learning, and solving real-world problems
-- 🌱 Always striving to improve—one project, one lesson, and one challenge at a time
+- 🌱 Just going through life . . .
 
 > *"Build. Learn. Reflect. Repeat."*
 
@@ -15,4 +15,4 @@ Currently on **Summer Break** ☀️ — making the most of it by learning, buil
 
 ### 📫 Let's Connect
 
-I'm always happy to connect with fellow students, developers, and researchers. Feel free to reach out or explore my repositories!
+I'm genuinely happy to connect with fellow students, developers, and researchers. Feel free to reach out or explore my repositories! Have a Nice Day :)
