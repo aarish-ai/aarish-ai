@@ -15,4 +15,5 @@ Currently on **Summer Break** ☀️ — making the most of it by learning, buil
 
 ### 📫 Let's Connect
 
-I'm genuinely happy to connect with fellow students, developers, and researchers. Feel free to reach out or explore my repositories! Have a Nice Day :)
+I'm genuinely happy to connect with fellow students, developers, and researchers. Feel free to reach out or explore my repositories! 
+Have a Nice Day :)
