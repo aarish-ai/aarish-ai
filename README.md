@@ -1,6 +1,6 @@
  Hi, I'm Aarish 👋
 
-### Aspiring AI Engineer
+### An Aspiring AI Engineer
 
 Currently on **Summer Break** ☀️ — making the most of it by learning, building, and exploring AI.
 
