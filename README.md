@@ -4,7 +4,6 @@
 
 Currently enjoying **University Life** 📚 — trying to keep building and learning alongside.
 
-- 🔭 Looking for **AI/ML internships**
 - 💻 Building my own projects alongside continuous learning
 - 🧠 Passionate about Artificial Intelligence, Machine Learning, and solving real-world problems
 - 🌱 Just going through life . . .
