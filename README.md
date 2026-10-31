@@ -2,16 +2,16 @@
 
 ### An Aspiring AI Engineer
 
-Currently enjoying **University Life** 📚 — trying to keep building and learning alongside.
+Currently enjoying **University Life** 📚 — trying to keep building and learning.
 
-- 💻 Building my own projects alongside continuous learning
-- 🧠 Passionate about Artificial Intelligence, Machine Learning, and solving real-world problems
+- 💻 Building my own projects alongside learning
+- 🧠 Passionate about Artificial Intelligence, Machine Learning, and solving real problems
 - 🌱 Just going through life . . .
 
 ---
 
-### 📫 Let's Connect
+### 📫 Connect?
 
-I'm genuinely happy to connect with fellow students, developers, and researchers. Feel free to reach out or explore my repositories! 
+I'm genuinely happy to connect with fellow students, developers, and researchers. Feel free to reach out or explore my repos! 
 
 Have a Nice Day :)
